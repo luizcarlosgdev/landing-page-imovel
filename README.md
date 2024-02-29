@@ -17,5 +17,5 @@ Funcionalidades do projeto:
 - Seção andamento do projeto uma listagem com as fotos mostrando andamento da "construção do prédio".
 - Layout responsivo a diferentes tamanhos de telas.
 
-- [Confira o resultado](landingpageimovel.netlify.app)
+- [Confira o resultado](https://landingpageimovel.netlify.app/)
 
