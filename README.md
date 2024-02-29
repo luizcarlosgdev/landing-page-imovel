@@ -17,6 +17,5 @@ Funcionalidades do projeto:
 - Seção andamento do projeto uma listagem com as fotos mostrando andamento da "construção do prédio".
 - Layout responsivo a diferentes tamanhos de telas.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+- [Confira o resultado](landingpageimovel.netlify.app)
+
